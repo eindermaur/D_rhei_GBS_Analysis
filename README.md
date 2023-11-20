@@ -117,7 +117,7 @@ NOTE:
 
 - **Host:** BioHPC
 - **Program:** vcftools
-- **Script:** [Indermaur_VCFtools_filtering.sh](only step 2) (https://github.com/eindermaur/D_rhei_GBS_Analysis/blob/main/Indermaur_VCFtools_filtering.sh)
+- **Script:** [Indermaur_VCFtools_filtering.sh](https://github.com/eindermaur/D_rhei_GBS_Analysis/blob/main/Indermaur_VCFtools_filtering.sh) (only step 2) 
 - **Input:** your `.vcf` from Step 8
 - **Output:** `.012`, `.012.pos`, `.012.indv` files for your CC dataset
 
