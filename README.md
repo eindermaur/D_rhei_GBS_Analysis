@@ -13,7 +13,7 @@ For good examples of how to describe the methods, consider reading:
 * Martha Sudermann’s [*P. fulva* paper](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-06-21-0244-R)
 + Chase Crowell’s [*M. americana* paper](https://apsjournals.apsnet.org/doi/10.1094/PHYTO-05-21-0201-R)
 
-Before you start, please consider checking out the following resources:
+Before you start, please consider viewing the following resources:
 - Elshire et al. 2011, [original GBS publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019379)
 * Avi Karn’s [SNP calling tutorial](https://avikarn.com/2019-04-20-GBS-SNP-calling-tutorial/)
 + The Buckler Lab’s [TASSEL documentation](https://www.maizegenetics.net/tassel) (also where you download the software)
